@@ -27,19 +27,15 @@ Ratings and comments contribute to a transparent and informed healthcare communi
 The core programming language for the application.
 Object-oriented and versatile, providing a robust foundation for the system.
 
-<h4>Web Technologies:</h4>
-Utilizes HTML, CSS, and JavaScript for the user interface.
-Ensures a responsive and user-friendly web experience.
+<h4>Technologies:</h4>
+Java, Spring Boot, Spring Data JPA, MySQL Database, Maven
+Ensures a responsive and user-friendly experience.
 
 <h4>Database:</h4>
 Relational database management system (e.g., MySQL) for secure and efficient data storage.
 
 <h4>Spring Framework:</h4>
 Implements the Spring framework for easy integration and management of components.
-
-<h4>Messaging and Notification:</h4>
-Integrates messaging services for real-time communication between users and healthcare professionals.
-Notification system for appointment reminders and updates.
 
 <h3>Setup:</h3>
 Clone the repository to your local machine.
