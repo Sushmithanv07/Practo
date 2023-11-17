@@ -45,11 +45,11 @@ Build and deploy the application using the provided scripts or commands.
 Access the web application through a supported browser.
 
 <h3>Usage:</h3>
-1. Register or log in to access the full range of features.
+<pre>1. Register or log in to access the full range of features.
 2. Browse and book appointments with preferred doctors.
 3. Manage patient information, including medical history and prescriptions.
 4. Provide feedback through the review system.
-5. Purchase medicines online with prescription upload.
+5. Purchase medicines online with prescription upload.</pre>
 
 <h3>Contributing:</h3>
 We welcome contributions to enhance the functionality and user experience of the Health Management System. Please follow our guidelines for contributing, and feel free to submit pull requests.
