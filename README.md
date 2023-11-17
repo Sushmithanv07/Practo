@@ -40,21 +40,19 @@ Implements the Spring framework for easy integration and management of component
 Integrates messaging services for real-time communication between users and healthcare professionals.
 Notification system for appointment reminders and updates.
 
-<h4>Setup:</h4>
+<h3>Setup:</h3>
 Clone the repository to your local machine.
 Set up the required database and configure the connection details.
 Install Java development tools and dependencies specified in the project.
 Build and deploy the application using the provided scripts or commands.
 Access the web application through a supported browser.
 
-<h4>Usage:</h4>
-Register or log in to access the full range of features.
-Browse and book appointments with preferred doctors.
-Manage patient information, including medical history and prescriptions.
-Provide feedback through the review system.
-Purchase medicines online with prescription upload.
-Search for clinics based on location and specialization.
-Book surgeries with ease and convenience.
+<h3>Usage:</h3>
+1. Register or log in to access the full range of features.
+2. Browse and book appointments with preferred doctors.
+3. Manage patient information, including medical history and prescriptions.
+4. Provide feedback through the review system.
+5. Purchase medicines online with prescription upload.
 
-<h4>Contributing:</h4>
+<h3>Contributing:</h3>
 We welcome contributions to enhance the functionality and user experience of the Health Management System. Please follow our guidelines for contributing, and feel free to submit pull requests.
