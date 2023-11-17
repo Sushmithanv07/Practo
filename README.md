@@ -1,27 +1,28 @@
 <h2># Practo-Health Management System</h2>
 
-<h4>Introduction:</h4>
+<h3>Introduction:</h3>
 
 Welcome to the Health Management System, a comprehensive Java-based web application designed to streamline healthcare interactions. This system empowers users to seamlessly connect with healthcare professionals, book appointments, manage patient information, and share valuable feedback through reviews. It incorporates various modules, including medicine buying, clinic search, and surgery booking, ensuring a holistic approach to healthcare management.
 
-<h4>Features:</h4>
+<h3>Features:</h3>
 
-<h3>Appointment Booking:</h3>
+<h4>Appointment Booking:</h4>
 Users can easily schedule appointments with doctors, facilitating efficient healthcare access.
 Calendar integration ensures convenient date and time selection.
 
-<h3>Patient Information Management:</h3>
+<h4>Patient Information Management:</h4>
 The system allows for the organized storage and retrieval of patient records.
 Essential details such as medical history, prescriptions, and test results are easily accessible.
 
-<h3>Doctor Interaction:</h3>
+<h4>Doctor Interaction:</h4>
 Seamless communication between patients and doctors through the platform.
 Instant messaging and consultation features enhance the healthcare experience.
 
-<h3>Review System:</h3>
+<h4>Review System:</h4>
 Users can provide valuable feedback by submitting reviews for doctors and clinics.
 Ratings and comments contribute to a transparent and informed healthcare community.
 
+<h3>Technologies:</h3>
 <h4>Java:</h4>
 The core programming language for the application.
 Object-oriented and versatile, providing a robust foundation for the system.
